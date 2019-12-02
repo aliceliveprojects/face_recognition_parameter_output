@@ -5,7 +5,7 @@ This is a cut-down version of the Jeeliz demo and distribution repo, to be found
 ## How to use
 
 1. Use MS Visual Studio Code
-2. Ensure you have the Extensions: Live Server installed
+2. Ensure you have the Extensions: Live Server installed - see [here](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) 
 3. Open this folder structure by dragging the folder face_recognition_parameter_output onto a fresh VS Code window.
 4. The Explorer pane will open.
 5. Right-click on  /svg/index.html. Choose 'Open with Live Server'.
